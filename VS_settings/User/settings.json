@@ -1,0 +1,141 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "editor.fontFamily": "'Dank Mono Italic','Dank Mono Regular','Operator Mono Light Italic','Operator Mono Light','Source Code Pro Medium', 'Courier New', monospace",
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 1,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.autofetch": true,
+    "window.menuBarVisibility": "default",
+    "workbench.iconTheme": "material-icon-theme",
+    "C_Cpp.updateChannel": "Insiders",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontSize": 13,
+    "editor.detectIndentation": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnSave": true,
+    "editor.fontLigatures": true,
+    "editor.tokenColorCustomizations": {
+        "[Nord]": {
+            "textMateRules": [
+                {
+                    "scope": "emphasis",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "strong",
+                    "settings": {
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "entity.other.attribute-name",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "markup.underline",
+                    "settings": {
+                        "fontStyle": "underline"
+                    }
+                },
+                {
+                    "scope": "markup.bold",
+                    "settings": {
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "markup.heading",
+                    "settings": {
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": "markup.italic",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "storage.type",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "storage.modifier",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "name": "String interpolation",
+                    "scope": [
+                        "punctuation.definition.template-expression.begin",
+                        "punctuation.definition.template-expression.end",
+                        "punctuation.section.embedded"
+                    ],
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "keyword.control",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": [
+                        "keyword.operator.new",
+                        "keyword.operator.expression",
+                        "keyword.operator.cast",
+                        "keyword.operator.sizeof",
+                        "keyword.operator.logical.python"
+                    ],
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "name": "this.self",
+                    "scope": "variable.language",
+                    "settings": {
+                        "fontStyle": "italic",
+                        "foreground": "#ff5874"
+                    }
+                },
+                {
+                    "name": "@Decorator",
+                    "scope": [
+                        "meta.decorator punctuation.decorator"
+                    ],
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": [
+                        "punctuation.definition.comment",
+                        "comment"
+                    ],
+                    "settings": {
+                        // "foreground": "#ff5874",
+                        "fontStyle": "italic"
+                    }
+                }
+            ]
+        },
+    },
+    "workbench.colorTheme": "Palenight Italic"
+}

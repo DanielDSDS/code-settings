@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+	"font_face": "Dank Mono",
+	"font_size": 12,
+	"ignored_packages":
+	[
+	],
+	"theme": "OneDarkMaterial.sublime-theme"
+}
