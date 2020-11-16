@@ -9,7 +9,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'elzr/vim-json'
 Plug 'gregsexton/matchtag'
 Plug 'vim-syntastic/syntastic'
-"Plug 'leafgarland/typescript-vim'
+Plug 'leafgarland/typescript-vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 
