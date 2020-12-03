@@ -9,7 +9,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'elzr/vim-json'
 Plug 'gregsexton/matchtag'
 Plug 'vim-syntastic/syntastic'
-Plug 'leafgarland/typescript-vim'
+"Plug 'leafgarland/typescript-vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 
@@ -272,4 +272,5 @@ let loaded_netrwPlugin = 1
 "let g:airline_theme='atomic'
 "let g:airline_theme='base16_paraiso'
 let g:airline_theme='minimalist'
+
 
